@@ -1,1 +1,5 @@
-# algorithms-data-structures-6
+# algorithms-data-structures-6. 
+# Пушенко Александр ЭФБО-07-26. 
+# Практическая работа №6
+
+
